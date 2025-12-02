@@ -1,3 +1,8 @@
+/*
+CMPT 225 Final Project
+cube.java 
+Written by Armin Ahmadi and Nathan Omana
+*/
 package rubikscube;
 
 import java.util.Arrays;
