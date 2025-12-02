@@ -1,3 +1,8 @@
+/*
+CMPT 225 Final Project
+search.java 
+Written by Armin Ahmadi and Nathan Omana
+*/
 package rubikscube;
 
 import java.util.ArrayList;
